@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "RetailDash Documentation"
 date: 2014-04-30
 ---
 
